@@ -4,7 +4,7 @@
 
 ## 下载
 
-[Windows 2.1.9 预览版安装包](https://github.com/123456-xie/Ember-Studio-Releases/releases/download/untagged-0620dc6a84bb4fa7023b/EmberStudio-2.1.9-Setup.exe) · [版本说明](https://github.com/123456-xie/Ember-Studio-Releases/releases/tag/v2.1.9)
+[Windows 2.1.9 预览版安装包](https://github.com/123456-xie/Ember-Studio-Releases/releases/download/v2.1.9/EmberStudio-2.1.9-Setup.exe) · [版本说明](https://github.com/123456-xie/Ember-Studio-Releases/releases/tag/v2.1.9)
 
 当前 Windows 预览包的账户服务配置为 http://127.0.0.1:38080，适用于本机运行对应 sub2 服务的环境；公网用户使用前需要配置实际账户服务地址并重新打包。
 
