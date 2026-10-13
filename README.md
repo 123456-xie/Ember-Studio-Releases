@@ -24,4 +24,4 @@ Windows 使用 Setup.exe 安装向导。macOS Apple 芯片和 Intel 测试包均
 
 [Apple 芯片版](https://github.com/123456-xie/Ember-Studio-Releases/releases/download/v2.1.9/EmberStudio-2.1.9-mac-arm64.dmg) · [Intel 版](https://github.com/123456-xie/Ember-Studio-Releases/releases/download/v2.1.9/EmberStudio-2.1.9-mac-x64.dmg)
 
-Mac 测试包保留本机账户服务地址，使用 ad-hoc 签名，未做 Apple Developer ID 签名或公证。下载对应芯片的 DMG，并阅读 [Mac 测试说明](https://github.com/123456-xie/Ember-Studio-Releases/releases/download/v2.1.9/EmberStudio-2.1.9-Mac-Testing.md)。
+Mac 测试包保留本机账户服务地址，使用 ad-hoc 签名，未做 Apple Developer ID 签名或公证。原分架构包的历史说明见 [Mac 测试说明](https://github.com/123456-xie/Ember-Studio-Releases/releases/download/v2.1.9/EmberStudio-2.1.9-Mac-Testing.md)。
