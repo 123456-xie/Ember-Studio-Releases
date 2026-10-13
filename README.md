@@ -13,3 +13,9 @@ Windows 使用 Setup.exe 安装向导。macOS 安装包将在相应版本准备�
 ## 版本说明
 
 前往 [Releases](https://github.com/123456-xie/Ember-Studio-Releases/releases) 查看版本记录、适用环境和校验文件。请以对应版本说明为准。
+
+## macOS 2.1.9 预览版
+
+[Apple 芯片版](https://github.com/123456-xie/Ember-Studio-Releases/releases/download/v2.1.9/EmberStudio-2.1.9-mac-arm64.dmg) · [Intel 版](https://github.com/123456-xie/Ember-Studio-Releases/releases/download/v2.1.9/EmberStudio-2.1.9-mac-x64.dmg)
+
+测试包保留本机账户服务地址，未做 Apple Developer ID 签名或公证。下载对应芯片的 DMG，并阅读 Release 附带的 Mac 测试说明。
